@@ -1,8 +1,8 @@
 <div class="container">
     <div class="jumbotron mt-4">
         <h1 class ="display-4">Hello, Welcome to my website</h1>
-        <p class="lead">This is a simple hero nuit, a simple jumbotron-style component
-            for calling extra attention to featured content or information.
+        <p class="lead">
+            Halo, Saya <?= $data['nama']; ?>
         </p>
         <hr class="my-4">
         <p>
